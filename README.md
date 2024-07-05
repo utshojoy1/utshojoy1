@@ -9,10 +9,9 @@
 
 ## 🛠️ My Skills
 - **Languages**: PHP, JavaScript, HTML, CSS, Python, C, C++ 
-- **Frameworks**: WordPress, React, .NET
+- **Frameworks**: WordPress, React, .NET, WebFlow
 - **Tools**: Git, Docker, VS Code.
-- **Others**: Project management, Agile methodologies
-
+- **Others**: Content Management System (CMS), Project management, Agile methodologies.
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=utshojoy1&show_icons=true&theme=radical)
 
