@@ -22,4 +22,4 @@ https://utshojoy.netlify.app/
 3. [Project Name](Project URL) - Brief description
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/utsho-majumder-joy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/utsho-majumder-joy/)
