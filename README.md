@@ -10,7 +10,7 @@ https://utshojoy.netlify.app/
 
 ## 🛠️ My Skills
 - **Languages**: PHP, JavaScript, HTML, CSS, Python, C, C++ 
-- **Frameworks**: WordPress, React, .NET, WebFlow
+- **Frameworks**: WordPress,Bootstrap, .NET, WebFlow
 - **Tools**: Git, Docker, VS Code.
 - **Others**: Content Management System (CMS), Project management, Agile methodologies.
 ## 📈 GitHub Stats
