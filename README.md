@@ -7,7 +7,7 @@
 ## About Me
 - 🔭 I'm currently working on Odoo, WordPress, Webflow, Framer & Machine Learning
 - 🌱 I constantly learn and explore new technologies like AI and Data Science.
-- 💬 Ask me about WordPress development, web technologies, and project management.
+- 💬 Ask me about CMS development, web technologies, and project management.
 - 📫 How to reach me: utshojoy@outlook.com ; utshojoy1@gmail.com | [LinkedIn](https://www.linkedin.com/in/utsho-majumder-joy/)
 - ⚡ Fun fact: I love hiking and exploring nature
 
