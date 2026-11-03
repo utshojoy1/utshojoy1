@@ -29,7 +29,7 @@
 
 ## 💼 Featured Work
 - **Webflow CRM Integration**: published Odoo App Store app that turns Webflow form submissions into CRM leads
-- **SiteShift Migration**: free WordPress site-migration plugin, published on WordPress.org
+- **[Marchnote Site Migration](https://marchnote-site-migration.netlify.app/)**: free WordPress plugin that moves a whole site to a new host or domain in 3 clicks and updates links automatically ([WordPress.org](https://wordpress.org/plugins/marchnote-site-migration/))
 - **Odoo implementations**: Panaro SRL (V19), Stateside Distribution (V18), Oxitech Global (V19), Utile Trade LLC (V19)
 - **Web platforms**: [GridSide](https://gridside.live) (AR live racing), [PharmaZ247](https://pharmaz247.com) (pharmacy OS), [Velacrew AI](https://velacrew.ai)
 
