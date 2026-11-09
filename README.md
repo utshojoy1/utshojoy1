@@ -1,37 +1,37 @@
 # Hi there, I'm Utsho Majumder Joy, aka Utsho Joy ! 👋
 
-### I build the web & ERP — from ERP to front end, I build it all.
+### I build the web & ERP — from front end to ERP, I build it all.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utshojoy1&label=Profile%20views&color=0e75b6&style=flat)
 
 🌐 **Portfolio:** [utshojoy.netlify.app](https://utshojoy.netlify.app/)
 
 ## About Me
-- 💼 Techno-Functional Consultant & Odoo Developer at [TulipTech](https://tulip-tech.com), taking ERP projects from requirements to go-live
-- 🧩 I build custom Odoo modules for Sales, Inventory, Accounting, HR & CRM, plus API integrations and process automation
+- 💼 Full-stack Web Developer at [TulipTech](https://tulip-tech.com)
 - 🌍 6 years of web development with WordPress, Next.js / Nest.js, PHP, Shopify/Shopify Plus, Webflow, Framer and modern front-end tools
+- 🧩 Also a Techno-Functional Odoo Consultant: custom Odoo modules for Sales, Inventory, Accounting, HR & CRM, plus API integrations and process automation, from requirements to go-live
 - 🎓 B.Sc. in Computer Science & Engineering (BUBT), now expanding into Machine Learning & LLMs
 - 📍 Based in Dhaka, Bangladesh
 - 📫 How to reach me: utshojoy1@gmail.com ; utshojoy@outlook.com | [LinkedIn](https://www.linkedin.com/in/utsho-majumder-joy/)
 - ⚡ Fun fact: I love hiking and exploring nature
 
 ## 🚀 What I Do
-- **Odoo ERP Development**: custom modules, API integrations, end-to-end implementation and maintenance
 - **Web Development**: WordPress, PHP, Next.js / Nest.js and Shopify builds focused on performance and security
+- **Odoo ERP Development**: custom modules, API integrations, end-to-end implementation and maintenance
 - **UI/UX & Front-end**: responsive interfaces with Tailwind CSS, Framer, Webflow and GSAP
 - **Machine Learning & LLM**: ML and LLM features for workflow automation and data-driven decisions
 
 ## 🛠️ My Skills
-- **Odoo & Backend**: Odoo, Python, PostgreSQL, PHP & MySQL, Nest.js, AWS
 - **Web & Front-end**: WordPress, HTML & CSS, JavaScript, Next.js, Tailwind CSS, Webflow, Framer, Shopify, Bootstrap
+- **Odoo & Backend**: Odoo, Python, PostgreSQL, PHP & MySQL, Nest.js, AWS
 - **Design & Data**: UI/UX design, Adobe Photoshop, GSAP animation, ML/LLM
 - **Other**: C, C++, .NET, Git, Docker, VS Code, Agile & project management
 
 ## 💼 Featured Work
-- **Webflow CRM Integration**: published Odoo App Store app that turns Webflow form submissions into CRM leads
+- **Web platforms**: [GridSide](https://gridside.live) (AR live racing), [PharmaZ247](https://pharmaz247.com) (pharmacy OS), [Velacrew AI](https://velacrew.ai)
 - **[Marchnote Site Migration](https://marchnote-site-migration.netlify.app/)**: free WordPress plugin that moves a whole site to a new host or domain in 3 clicks and updates links automatically ([WordPress.org](https://wordpress.org/plugins/marchnote-site-migration/))
 - **Odoo implementations**: Panaro SRL (V19), Stateside Distribution (V18), Oxitech Global (V19), Utile Trade LLC (V19)
-- **Web platforms**: [GridSide](https://gridside.live) (AR live racing), [PharmaZ247](https://pharmaz247.com) (pharmacy OS), [Velacrew AI](https://velacrew.ai)
+- **Webflow CRM Integration**: published Odoo App Store app that turns Webflow form submissions into CRM leads
 
 👉 See the full project list on my [portfolio](https://utshojoy.netlify.app/).
 
