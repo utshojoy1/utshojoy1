@@ -9,7 +9,7 @@
 ## About Me
 - 💼 Techno-Functional Consultant & Odoo Developer at [TulipTech](https://tulip-tech.com), taking ERP projects from requirements to go-live
 - 🧩 I build custom Odoo modules for Sales, Inventory, Accounting, HR & CRM, plus API integrations and process automation
-- 🌍 6 years of web development with WordPress, PHP, Shopify/Shopify Plus, Webflow, Framer and modern front-end tools
+- 🌍 6 years of web development with WordPress,Next.js / Nest.js, PHP, Shopify/Shopify Plus, Webflow, Framer and modern front-end tools
 - 🎓 B.Sc. in Computer Science & Engineering (BUBT), now expanding into Machine Learning & LLMs
 - 📍 Based in Dhaka, Bangladesh
 - 📫 How to reach me: utshojoy1@gmail.com ; utshojoy@outlook.com | [LinkedIn](https://www.linkedin.com/in/utsho-majumder-joy/)
