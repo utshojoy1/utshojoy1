@@ -17,13 +17,13 @@
 
 ## 🚀 What I Do
 - **Odoo ERP Development**: custom modules, API integrations, end-to-end implementation and maintenance
-- **Web Development**: WordPress, PHP, Node.js and Shopify builds focused on performance and security
+- **Web Development**: WordPress, PHP, Next.js / Nest.js and Shopify builds focused on performance and security
 - **UI/UX & Front-end**: responsive interfaces with Tailwind CSS, Framer, Webflow and GSAP
 - **Machine Learning & LLM**: ML and LLM features for workflow automation and data-driven decisions
 
 ## 🛠️ My Skills
-- **Odoo & Backend**: Odoo, Python, PostgreSQL, PHP & MySQL, Node.js, AWS
-- **Web & Front-end**: WordPress, HTML & CSS, JavaScript, Tailwind CSS, Webflow, Framer, Shopify, Bootstrap
+- **Odoo & Backend**: Odoo, Python, PostgreSQL, PHP & MySQL, Nest.js, AWS
+- **Web & Front-end**: WordPress, HTML & CSS, JavaScript, Next.js, Tailwind CSS, Webflow, Framer, Shopify, Bootstrap
 - **Design & Data**: UI/UX design, Adobe Photoshop, GSAP animation, ML/LLM
 - **Other**: C, C++, .NET, Git, Docker, VS Code, Agile & project management
 
